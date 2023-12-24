@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949486270607",
+    "project_id": "atelier-4-i-khardali-iir5g1",
+    "storage_bucket": "atelier-4-i-khardali-iir5g1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949486270607:android:980a37bb5d8862134e18fa",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_i_khardali_iir5g1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkAIEnJ5No_X8CPHYNCApcQchak4PpQkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
